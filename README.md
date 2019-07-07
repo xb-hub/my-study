@@ -1,9 +1,8 @@
 # my_study
 1. [github教程](https://www.runoob.com/w3cnote/git-guide.html)
 2. [apriltag库安装](https://github.com/AprilRobotics/apriltag)
-3. [apriltag教程]()
-4. [cuda-9.0安装教程]()
-5. [Opencv安装](https://github.com/xb-hub/OpenCV_demo)
+3. [apriltag教程](http://book.openmv.cc/image/apriltag.html)
+4. [Opencv安装](https://github.com/xb-hub/OpenCV_demo)
 
 
 # op3-study
