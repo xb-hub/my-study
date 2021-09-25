@@ -27,7 +27,8 @@
 *   catkin_make -DCATKIN_WHITELIST_PACKAGES=""
 ```
 
-# c++-study
-1. 类内部的变量名字最后加上"_"以区分全局变量和局部变量
-2. 类方法在源文件中定义必须带作用域
-3. 多种状态使用枚举定义，不会产生多余的情况
+# cmake-study
+
+# make-study
+
+# socket-study
