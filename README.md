@@ -4,6 +4,10 @@
 3. [apriltag教程](http://book.openmv.cc/image/apriltag.html)
 4. [Opencv安装](https://github.com/xb-hub/OpenCV_demo)
 5. [c++_study]
+6. [make-study]
+7. [make-study]
+8. [socket-study]
+9. [Linux环境编程](https://github.com/xb-hub/unix)
 
 
 # op3-study
@@ -27,8 +31,3 @@
 *   catkin_make -DCATKIN_WHITELIST_PACKAGES=""
 ```
 
-# cmake-study
-
-# make-study
-
-# socket-study
