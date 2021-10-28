@@ -3,11 +3,17 @@
 2. [apriltag库安装](https://github.com/AprilRobotics/apriltag)
 3. [apriltag教程](http://book.openmv.cc/image/apriltag.html)
 4. [Opencv安装](https://github.com/xb-hub/OpenCV_demo)
-5. [c++_study]
-6. [make-study]
-7. [make-study]
-8. [socket-study]
-9. [Linux环境编程](https://github.com/xb-hub/unix)
+5. [c++](https://github.com/xb-hub/basement)
+6. [CMake]()
+7. [make](https://seisman.github.io/how-to-write-makefile/rules.html)
+8. [计算机网络]()
+9. [socket]()
+10. [操作系统]()
+11. [Linux环境编程](https://github.com/xb-hub/unix)
+12. [MySQL]()
+13. [redis]()
+14. [设计模式]()
+15. [剑指offer](https://github.com/xb-hub/algorithms)
 
 
 # op3-study
