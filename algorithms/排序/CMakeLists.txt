@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.15)
+project(Sort)
+add_compile_options(-std=c++11)
+add_executable(MergeSort MergeSort.cpp)
+add_executable(BubbleSort BubbleSort.cpp)
+add_executable(InsertSort InsertSort.cpp)
+add_executable(SelectSort SelectSort.cpp)
+add_executable(QuickSort QuickSort.cpp)

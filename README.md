@@ -9,7 +9,7 @@
 8. [计算机网络]()
 9. [socket]()
 10. [操作系统]()
-11. [Linux环境编程](https://github.com/xb-hub/unix)
+11. [Unux环境编程](https://github.com/xb-hub/my-study/tree/master/Unix)
 12. [MySQL]()
 13. [redis]()
 14. [设计模式]()
