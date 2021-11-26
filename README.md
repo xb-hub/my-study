@@ -9,11 +9,12 @@
 8. [计算机网络]()
 9. [Socket]()
 10. [操作系统]()
-11. [Unux环境编程](https://github.com/xb-hub/my-study/tree/master/Unix)
-12. [MySQL]()
-13. [Redis]()
-14. [设计模式]()
-15. [剑指offer](https://github.com/xb-hub/my-study/tree/master/algorithms)
+11. [csapp]()
+12. [Unux环境编程](https://github.com/xb-hub/my-study/tree/master/Unix)
+13. [MySQL]()
+14. [Redis]()
+15. [设计模式]()
+16. [algorithms](https://github.com/xb-hub/my-study/tree/master/algorithms)
 
 
 # op3-study
