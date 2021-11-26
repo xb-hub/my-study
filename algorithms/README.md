@@ -7,6 +7,7 @@
 | [选择排序](./排序/SelectSort.cpp)   | O($n^2$)  |  O()   |
 | [快速排序](./排序/QuickSort.cpp) | O(n*logn)  |  O()   |
 | [归并排序](./排序/MergeSort.cpp) | O(n*logn)  |  O()   |
+| [堆排序](./排序/HeapSort.cpp) | O(n*logn)  |  O()   |
 
 ## 2. 二分查找
 - 有序数组查找：[LeetCode35](https://leetcode-cn.com/problems/search-insert-position/)
@@ -71,7 +72,7 @@ while (left <= right)
 
 ## 3. 递归
 - master公式：T(n) = a * T($\frac{N}{b}$) + O($N^2$)</br>
-其中，a为子问题的调用次数，b为子问题规模，O(N^d)为除去子问题剩下的时间复杂度。</br>
+其中，a为子问题的调用次数，b为子问题规模，O($N^d$)为除去子问题剩下的时间复杂度。</br>
 $log_ba$ < d => O($N^d$)</br>
 $log_ba$ > d => O($N*log_ba$)</br>
 $log_ba$ = d => O($N^d * logN$)

@@ -1,7 +1,0 @@
-/Users/xubin/Desktop/algorithms/排序/build/CMakeFiles/edit_cache.dir
-/Users/xubin/Desktop/algorithms/排序/build/CMakeFiles/SelectSort.dir
-/Users/xubin/Desktop/algorithms/排序/build/CMakeFiles/BubbleSort.dir
-/Users/xubin/Desktop/algorithms/排序/build/CMakeFiles/rebuild_cache.dir
-/Users/xubin/Desktop/algorithms/排序/build/CMakeFiles/QuickSort.dir
-/Users/xubin/Desktop/algorithms/排序/build/CMakeFiles/InsertSort.dir
-/Users/xubin/Desktop/algorithms/排序/build/CMakeFiles/MergeSort.dir
