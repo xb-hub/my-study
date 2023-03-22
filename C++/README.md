@@ -128,3 +128,19 @@ f({ 11, 23, 9 });               //T被推导为int，initList的类型为std::in
 
 ## 条款7：区别使用()和{}创建对象
 narrowing conversion: A conversion from one data type to another where the new data type’s size is smaller than the old one’s, such that the conversion may result in loss of information.(double->int 错误)
+
+## Modern C++
+### nullptr
+```
+传统C++会把NULL、0 视为同一种东西，这取决于编译器如何定义 NULL，有些编译器会将 NULL 定义为 ((void*)0)，有些则会直接将其定义为 0。
+C++ 不允许直接将 void * 隐式转换到其他类型。但如果编译器尝试把 NULL 定义为 ((void*)0)，那么在下面这句代码中：
+
+char *ch = NULL;
+
+没有了 void * 隐式转换的 C++ 只好将 NULL 定义为 0。而这依然会产生新的问题，将 NULL 定义成 0 将导致 C++ 中重载特性发生混乱。考虑下面这两个 foo 函数：
+
+void foo(char*);
+void foo(int);
+```
+
+### constexpr
